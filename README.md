@@ -1,4 +1,4 @@
-# Hi there, I'm Wardatul Khoiroh 👋
+# Hi there, I'm Wardatul Khoiroh 
 
 Final-Year Informatics Engineering Student at Institut Teknologi Bandung (ITB) 🎓  
 Data Engineering Intern at PT Telkom Indonesia | Project Officer Arkavidia 11.0 🚀
